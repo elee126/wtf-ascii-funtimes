@@ -1,7 +1,12 @@
   _   |~  _
  [_]--'--[_]
  |'|""`""|'|
+ |'|     |'|
+ |'|  X  |'|
+ |'|     |'|
  | | /^\ | |
  | | |I| | |
  | | |I| | |
  |_|_|I|_|_|
+
+Once upon a time in a castle far away there lived a kraken...
